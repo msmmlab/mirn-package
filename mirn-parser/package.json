@@ -1,0 +1,17 @@
+{
+  "name": "mirn-parser",
+  "version": "0.0.1",
+  "description": "mirn-parser",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "mirn-parser"
+  ],
+  "author": "Marcin Stepien",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
